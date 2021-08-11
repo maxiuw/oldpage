@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maciej Wozniak"
 title_separator          : "-"
 name                     : &name "Maciej Wozniak"
-description              : &description "personal description"
+description              : &description "Research Assistant at Miami University"
 url                      : https://maxiuw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maxiuw/maxiuw.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maciej K Wozniak"
   avatar           : "profile.png"
-  bio              : "Passionate engineer, developing in areas of data science, machine learning and computer vision.
+  bio              : "Passionate engineer, developing in areas of data science, machine learning and computer vision."
   location         : 
   employer         :
   pubmed           : 
