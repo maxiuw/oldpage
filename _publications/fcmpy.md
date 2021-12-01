@@ -3,7 +3,7 @@ title: "FCMpy: A Python Module for Constructing and Analysing Fuzzy Cognitive Ma
 collection: publications
 permalink: /publication/FCMpy
 excerpt: 'FCMpy is an open-source package in Python for building and analysing Fuzzy Cognitive Maps. More specifically, the package allows 1) deriving fuzzy causal weights from qualitative data, 2) applying machine learning algorithms (e.g., Nonlinear Hebbian Learning, Active Hebbian Learning, Genetic Algorithms and Deterministic Learning) to adjust the FCM causal weight matrix and to solve classification problems, and 3) implementing scenario analysis by simulating hypothetical interventions.'
-# date: 2015-10-01
+date: 2021-25-11
 # venue: 'Journal 1'
 paperurl: 'https://arxiv.org/pdf/2111.12749v1.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
