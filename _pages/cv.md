@@ -62,7 +62,20 @@ Catia, Fusion360, Autocad)
 CAE (Abaqus, Ansys, Fluent)
 Prototyping/3D printing
 
-languages
+Awards
+======
+2013-2015 – Scholarship for 10% of the best student in the department (Wroclaw University of Science
+and Technology) 2000$
+2015 – 12 months Erasmus scholarship (Erasmus+) - Wroclaw University of Science and Technology and
+University of Aveiro 5400€
+2017 – 6 months research scholarship (Erasmus – Mundus) – Wroclaw University of Science and
+Technology and National University of Science and Technology Moscow 3300€
+2020 – Graduate assistant scholarship (18 months) – Miami University 24000$ + tuition fees
+2020 – One of three the best Graduate research at the Miami University 300$
+https://www.miamioh.edu/cec/news/2020/12/wozniak-research-award.html
+2021 – Summer research scholarship – Miami University 1500$
+
+Languages
 ======
 Polish
 English
@@ -74,4 +87,36 @@ Hobbies
 ======
 Water and winter sports,
 climbing, photography
-  
+
+Referees contacts
+======
+1. Professor Philippe Giabbanelli (research and my thesis supervisor)
+Miami University
+BEN 205W
+513-529-0147
+giabbapj@miamioh.edu
+www.dachb.com
+2. Professor Jim Kiper (co-supervisor of my thesis and professor who I co-teach classes with)
+Miami University
+205 M Benton Hall
+513-529-0345
+kiperjd@miamioh.edu
+www.users.miamioh.edu/kiperjd
+3. Nuno Abrantes (supervisor at Kubor)
+n.abrantes@kubor.pt
+https://kubor.pt/
+4. Rik Cruzen (supervisor of Fuzzy Cognitive Maps project)
+Department of Health Promotion
+Maastricht University/CAPHRI
+The Netherlands
+https://www.maastrichtuniversity.nl/rik.crutzen
+Rik.crutzen@maastrichtuniversity.nl
+5. John Femiani (co-supervisor of my thesis and professor of two classes I took)
+205 F Benton Hall
+513-529-0349
+femianjc@MiamiOH.edu
+6. Jim Leonard (a university instructor who I helped with creating materials for the course on ROS)
+Miami University
+260 Garland Hall
+513-529-0740
+leonarjd@MiamiOH.edu
