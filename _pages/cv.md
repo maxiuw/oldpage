@@ -11,49 +11,67 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Master, Miami University, Oxford, OH
+AUGUST 2020 - DECEMBER 2021
+Master's degree in computer science focused on Machine Learning and Computer
+Vision.
+Master, Universidade de Aveiro, Aveiro/Moscow
+FEBRUARY 2017 - OCTOBER 2019
+Master's degree in Mechanical Engineering with 6 months of research at MISIS.
+Bachelor , Wroclaw University of Technology and Science , Wroclaw
+OCTOBER 2013 - JANUARY 2017
+Bachelor's degree in Mechanical Engineering, one year exchange in Portugal.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Assistant, Miami University, Oxford, OH
+A U G U S T 2 0 2 0 — P R E S E N T
+Working in Professor Giabbanelli’s research group on various applications of
+machine learning and computer vision. Co-teaching undergraduate courses.
+Mechanical Engineer, Kubor, Aveiro/Portugal
+N O V E M B E R 2 0 1 8 — D E C E M B E R 2 0 1 9
+Creating computer vision and optimization solutions for the industry. Designing and
+constructing working stations for factories across Europe.
+Project engineer , Triangles, Agueda/Portugal
+D E C E M B E R 2 0 1 7 — J U LY 2 0 1 8
+Designing parts of machinery used in the production of complex bicycle frames.
+Implementing the hydroforming process into production.
+Research assistant , MISIS, Moscow/Russia
+F E B R U A R Y 2 0 1 7 — J U N E 2 0 1 7
+Investigating the influence of magnetostriction on damping properties of various
+Fe- Ga alloys in Professor Golovin research group.
+Constructor and designer (freelancer) , WJ Marine, Poland
+O C T O B E R 2 0 1 6 — A P R I L 2 0 1 7
+Designing industrial machines and working stations.
+Younger Constructor (internship), Food Robotics, Poland
+O C T O B E R 2 0 1 6 — D E C E M B E R 2 0 1 6
+The 2-months project focused on R&D of a prosthetic wrist.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Python/Matlab
+Machine Learning, Deep
+Learning, Computer Vision
+Data Analysis/Data
+processing/Visualization
+Git
+C/C++/Java/ROS
+CAD (Solidworks, Inventor, Creo,
+Catia, Fusion360, Autocad)
+CAE (Abaqus, Ansys, Fluent)
+Prototyping/3D printing
 
-Publications
+languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Polish
+English
+Portuguese
+Spanish
+Russian
   
-Talks
+Hobbies
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Water and winter sports,
+climbing, photography
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
