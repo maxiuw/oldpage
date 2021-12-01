@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Maciej K Wozniak"
-  avatar           : "wozniamk.png"
+  avatar           : "wozniamk.jpg"
   bio              : "Passionate engineer, developing in areas of data science, machine learning and computer vision."
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Vz7-KekAAAAJ&hl=pl"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Maciej-Wozniak-10/research"
   uri              :
   bitbucket        :
   codepen          :
