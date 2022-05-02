@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "News"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# News
 
 ### 2022-04-22
 We submitted one article for [IEEE ITSC 2022](https://www.ieee-itsc2022.org/) about 3D mapping for Autonomous driving.
