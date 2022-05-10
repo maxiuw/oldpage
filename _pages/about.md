@@ -21,6 +21,9 @@ We submitted one article for [IEEE ITSC 2022](https://www.ieee-itsc2022.org/) ab
 ### 2022-03-22
 My paper [Automatic Generation of Individual Fuzzy Cognitive Maps from Longitudinal Data](https://arxiv.org/abs/2202.07065) was accepted for ICCS '22 Conference in London.
 
+### 2022-02-12 
+I am co-organizing (KTH RPL summer school)[https://www.summer-school.rpl.eecs.kth.se/].
+
 ### 2022-01-05
 I started a Ph.D. in Robotics at KTH Royal Institute of Technology at Stockholm!
 
