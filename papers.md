@@ -60,7 +60,7 @@ subtitle:
 
 
 ## ICCS 2022
-#### *INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE*
+#### *2022 INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE (ICCS)*
 
 **Title**: *Automatic Generation of Individual Fuzzy Cognitive Maps from Longitudinal Data*
 
