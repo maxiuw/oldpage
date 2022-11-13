@@ -65,7 +65,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+   google-scholar: "https://scholar.google.com/citations?user=Vz7-KekAAAAJ&hl=en"
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -80,8 +80,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  google-scholar: true
   linkedin: true
   vk: false
 
