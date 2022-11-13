@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The International Workshop on Virtual, Augmented, and Mixed-Reality for HRI.
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+title: I am going to organize VAM Workshop at HRI 2023!
+subtitle: The International Workshop on Virtual, Augmented, and Mixed-Reality for HRI.
+cover-img: /assets/img/hri2023.png
+thumbnail-img: /assets/img/hri2023.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
