@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Ph.D. student supervised by Patric Jensfelt and Andre Pereira. My doctoral studies are supported by the Wallenberg AI, Autonomous Systems and Software Program (WASP).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am working on projects focused on computer vision solutions for 3D perception and dynamic environment understanding. I also create VR/AR applications for improving human interaction with indoor and outdoor robots.
 
-What else do you need?
+I would be more than happy to supervise master's students who would be interested in working with me on one of my projects
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
