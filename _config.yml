@@ -50,12 +50,10 @@ round-avatar: true
 social-network-links:
   email: "maciejw@kth.se"
   github: maxiuw
-  google-scholar: Vz7-KekAAAAJ
-
+  google-scholar: citations?user=Vz7-KekAAAAJ
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 # rss-description: This website is a virtual proof that I'm awesome
-
 ###########################
 # --- General options --- #
 ###########################
