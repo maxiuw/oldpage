@@ -50,26 +50,7 @@ round-avatar: true
 social-network-links:
   email: "maciejw@kth.se"
   github: maxiuw
-  google-scholar: https://scholar.google.com/citations?user=Vz7-KekAAAAJ&hl=en
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: "https://scholar.google.com/citations?user=Vz7-KekAAAAJ&hl=en"
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
+  google-scholar: Vz7-KekAAAAJ
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
